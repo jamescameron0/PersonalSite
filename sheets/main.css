@@ -1,14 +1,14 @@
 #Box1{
     background-color: rgb(33, 35, 54);
-    height: 30px;  
+    height: 40px;  
     width: 100%;
     
 }
 .Box2{ 
     float:left;
-    height: 20px;
+    height: 28px;
     width: 15.6%;
-    margin: 4px 0 0 1%;
+    margin: 6px 0 0 1%;
     background-color: rgb(50, 50, 121);
     cursor: pointer;
 
