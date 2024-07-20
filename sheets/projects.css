@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(21, 21, 35);
+}
+
+.p1{
+    color: rgb(153, 184, 211);
+    font-size: 50px;
+    text-align: center;
+    padding-top: 200px;
+}
